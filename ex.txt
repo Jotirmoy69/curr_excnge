@@ -1,0 +1,17 @@
+      <div class="amount">
+        <form>
+          <p>From</p>
+          <input type="text" placeholder="Enter Amount" />
+        </form>
+        <img src="https://flagsapi.com/US/flat/64.png" />
+      </div>
+
+      <div id="dropdown-from">
+        <select>
+          <option>USD</option>
+          <option>BDT</option>
+          <option>IND</option>
+        </select>
+      </div>
+
+      <!-- to -->
